@@ -1,6 +1,6 @@
 # Nuxt dev/build outputs
 .output
-nuxt-app/.data
+.data
 .nuxt
 .nitro
 .cache

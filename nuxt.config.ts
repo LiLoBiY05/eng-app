@@ -8,6 +8,9 @@ export default defineNuxtConfig({
         plugins: [
             tailwindcss(),
         ],
+        build: {
+            sourcemap: false,
+        },
     },
     css: ['./app/assets/css/main.css'],
     modules: [
