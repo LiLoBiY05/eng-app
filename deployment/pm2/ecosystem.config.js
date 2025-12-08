@@ -16,7 +16,7 @@ module.exports = {
     {
       name: 'english-portal',
       script: '.output/server/index.mjs',
-      cwd: '/path/to/your/app', // Update this path to your app directory
+      cwd: '/var/www/eng-app',
       instances: 1,
       exec_mode: 'cluster',
       autorestart: true,
