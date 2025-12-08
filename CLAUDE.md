@@ -51,9 +51,14 @@ content/
 │   ├── homework/
 │   └── vocabulary/
 └── resources/                          # Shared global resources
-    ├── grammar-rules/
-    ├── exercises/
-    └── tips/
+    ├── 1.tenses/                       # All English tenses (numbered for ordering)
+    │   ├── 1.present/
+    │   ├── 2.past/
+    │   └── 3.future/
+    ├── 2.irregular-verbs/              # Lists of irregular verbs
+    ├── 3.grammar-rules/                # Other grammar topics
+    ├── 4.exercises/
+    └── 5.tips/
 ```
 
 **Key principles:**
@@ -61,6 +66,7 @@ content/
 - Homework files use date format: `YYYY-MM-DD.md`
 - Themes can be organized by subtopic (e.g., `themes/tenses/`, `themes/modals/`)
 - Global resources are shared across all students
+- Resources use numbered prefixes (1., 2., 3.) for ordering - Nuxt automatically removes these from URLs
 
 ### Navigation System
 The Navigation component (`app/components/Navigation.vue`) auto-generates from content structure:
@@ -137,6 +143,87 @@ title: Past Simple vs Present Perfect
 ```
 
 The `title` field is used in navigation items and page headings.
+
+### File Ordering with Numbered Prefixes
+
+Files and folders use numbered prefixes for ordering (e.g., `1.present-simple.md`, `2.past/`). Nuxt Content automatically strips these numbers from URLs:
+
+**File:** `content/resources/tenses/1.present/1.present-simple.md`
+**URL:** `/resources/tenses/present/present-simple`
+
+This approach provides:
+- Consistent ordering in navigation and file system
+- Clean, semantic URLs for users
+- Easy reordering by changing numbers
+
+## Shared Resources Structure
+
+### Tenses (`content/resources/tenses/`)
+
+Complete reference for all English tenses with Ukrainian explanations and English examples.
+
+**Structure:**
+```
+1.tenses/
+├── index.md
+├── 1.present/
+│   ├── index.md
+│   ├── 1.present-simple.md ✅
+│   ├── 2.present-continuous.md ⏳
+│   ├── 3.present-perfect.md ⏳
+│   └── 4.present-perfect-continuous.md ⏳
+├── 2.past/
+│   ├── index.md
+│   ├── 5.past-simple.md ✅
+│   ├── 6.past-continuous.md ⏳
+│   ├── 7.past-perfect.md ⏳
+│   └── 8.past-perfect-continuous.md ⏳
+└── 3.future/
+    ├── index.md
+    ├── 9.future-simple.md ⏳
+    ├── 10.future-continuous.md ⏳
+    ├── 11.future-perfect.md ⏳
+    ├── 12.future-perfect-continuous.md ⏳
+    ├── 13.going-to-future.md ⏳
+    └── 14.future-in-the-past.md ⏳
+```
+
+**Legend:**
+- ✅ Complete with full content
+- ⏳ Placeholder ("Content coming soon...")
+
+**When adding new tense content:**
+1. Navigate to the appropriate category folder (`1.present/`, `2.past/`, `3.future/`)
+2. Edit the corresponding numbered `.md` file
+3. Follow the structure of completed tenses (Present Simple, Past Simple):
+   - Introduction section (Що це таке?)
+   - Formula tables (стверджувальна, заперечна, питальна форми)
+   - Usage cases with examples (Коли використовувати?)
+   - Time markers table
+   - Common mistakes section with ❌/✅ examples
+   - Practice exercises with answers
+   - Useful tips section
+4. Include both Ukrainian explanations and English examples throughout
+
+### Irregular Verbs (`content/resources/irregular-verbs/`)
+
+Complete list of irregular verbs organized in groups of 50.
+
+**Structure:**
+```
+2.irregular-verbs/
+├── index.md
+├── 1.verbs-1-50.md ✅ (Most common 50 verbs)
+├── 2.verbs-51-100.md ✅ (Additional 50 verbs)
+└── 3.verbs-101-150.md ⏳ (Future expansion)
+```
+
+**When adding more verbs (101-150, 151-200, etc.):**
+1. Create new file: `3.verbs-101-150.md`
+2. Follow the table structure: V1, V2, V3, Ukrainian translation, example
+3. Group verbs by pattern (A-A-A, A-B-B, A-B-C, i-a-u, etc.)
+4. Include practice exercises with answers
+5. Update `index.md` to link to the new list
 
 ## TypeScript Configuration
 The project uses TypeScript with Nuxt's auto-generated types. After making configuration changes, run `yarn postinstall` (or `nuxt prepare`) to regenerate types.

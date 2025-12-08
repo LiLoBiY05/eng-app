@@ -6,6 +6,12 @@ const route = useRoute();
 const { data: page } = await useAsyncData(route.path, () => {
   return queryCollection("content").path(route.path).first();
 });
+
+// Set page title dynamically
+useHead(() => ({
+  title: page.value?.title || 'Page Not Found',
+  titleTemplate: '%s | English Learning Portal'
+}));
 </script>
 
 <template>
