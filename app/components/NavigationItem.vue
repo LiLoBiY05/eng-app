@@ -20,7 +20,7 @@ const route = useRoute();
 
 // Calculate padding based on depth
 const paddingLeft = computed(() => {
-  return props.depth * 16; // 16px per level
+  return props.depth * 12; // 12px per level
 });
 
 // Check if current item or any child is active
@@ -38,12 +38,12 @@ const isActiveOrHasActiveChild = computed(() => {
       v-if="!item.children"
       :to="item.path"
       :class="{
-        'bg-gray-100 dark:bg-gray-800': isActiveOrHasActiveChild,
+        'bg-accent text-accent-foreground font-medium': isActiveOrHasActiveChild,
       }"
-      class="flex items-center gap-2 rounded-lg px-4 py-2 text-gray-700 dark:text-gray-200 hover:bg-gray-50 dark:hover:bg-gray-700"
-      :style="{ paddingLeft: `${paddingLeft + 16}px` }"
+      class="flex items-center gap-2 rounded-md px-3 py-2 text-sm text-foreground transition-colors hover:bg-accent/50"
+      :style="{ paddingLeft: `${paddingLeft + 12}px` }"
     >
-      <span class="text-sm font-medium">{{ item.title }}</span>
+      <span>{{ item.title }}</span>
     </NuxtLink>
 
     <!-- Item with children - expandable -->
@@ -53,20 +53,18 @@ const isActiveOrHasActiveChild = computed(() => {
       :open="isActiveOrHasActiveChild"
     >
       <summary
-        class="group flex cursor-pointer items-center justify-between rounded-lg px-4 py-2 text-gray-500 hover:bg-gray-100 hover:text-gray-700 dark:text-gray-400 dark:hover:bg-gray-800 dark:hover:text-gray-200"
-        :style="{ paddingLeft: `${paddingLeft + 16}px` }"
+        class="group flex cursor-pointer items-center justify-between rounded-md px-3 py-2 text-sm text-muted-foreground transition-colors hover:bg-accent/50 hover:text-foreground"
+        :style="{ paddingLeft: `${paddingLeft + 12}px` }"
       >
-        <span class="flex items-center gap-2">
-          <span class="text-sm font-medium">{{ item.title }}</span>
-        </span>
+        <span class="font-medium">{{ item.title }}</span>
 
-        <span class="shrink-0 transition duration-300 group-open:-rotate-180">
-          <ChevronDown :size="16" />
+        <span class="shrink-0 transition-transform duration-200 group-open:rotate-180">
+          <ChevronDown :size="14" />
         </span>
       </summary>
 
       <!-- Recursive rendering of children -->
-      <ul class="mt-1 space-y-1">
+      <ul class="mt-0.5 space-y-0.5">
         <NavigationItem
           v-for="child in item.children"
           :key="`nav-${child.path}`"
