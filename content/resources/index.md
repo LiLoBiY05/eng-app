@@ -8,6 +8,8 @@ Global learning materials available to all students.
 
 ## Sections
 
-- [Grammar Rules](/resources/grammar-rules) - Reference guides and explanations
-- [Exercises](/resources/exercises) - Practice activities
-- [Tips](/resources/tips) - Learning strategies and advice
+1. [Tenses](/resources/tenses) - All English tenses with explanations
+2. [Irregular Verbs](/resources/irregular-verbs) - Complete list of irregular verbs
+3. [Grammar Rules](/resources/grammar-rules) - Reference guides and explanations
+4. [Exercises](/resources/exercises) - Practice activities
+5. [Tips](/resources/tips) - Learning strategies and advice
