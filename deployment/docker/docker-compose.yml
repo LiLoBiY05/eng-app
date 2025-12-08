@@ -1,0 +1,37 @@
+version: '3.8'
+
+services:
+  english-portal:
+    build:
+      context: ../..
+      dockerfile: deployment/docker/Dockerfile
+    container_name: english-portal
+    restart: unless-stopped
+    ports:
+      - "3010:3010"
+    environment:
+      - NODE_ENV=production
+      - PORT=3010
+      - HOST=0.0.0.0
+      # Add any other environment variables here
+      # - DATABASE_URL=${DATABASE_URL}
+      # - API_KEY=${API_KEY}
+    volumes:
+      # Optional: Mount logs directory for persistence
+      - ./logs:/app/logs
+    networks:
+      - english-portal-network
+    healthcheck:
+      test: ["CMD", "node", "-e", "require('http').get('http://localhost:3010', (r) => {process.exit(r.statusCode === 200 ? 0 : 1)})"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+
+networks:
+  english-portal-network:
+    driver: bridge
+
+# Optional: Add volumes for persistence
+# volumes:
+#   logs:
