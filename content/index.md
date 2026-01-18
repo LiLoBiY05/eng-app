@@ -4,13 +4,13 @@ title: English Learning Portal
 
 # English Learning Portal
 
-Welcome to the English learning portal! Choose your student profile to access lessons, homework, and vocabulary.
+Welcome to the English learning platform.
 
 ## Students
 
-- [Yurii Rostyslav](/yurii-rostyslav)
-- [Kate](/kate)
+- [Yurii](/students/yurii)
+- [Kate](/students/kate)
 
-## Resources
+## Learning Library
 
-Shared learning materials and exercises available in the [Resources](/resources) section.
+Browse our comprehensive [Learning Library](/library) with grammar references, vocabulary lists, and exercises.
