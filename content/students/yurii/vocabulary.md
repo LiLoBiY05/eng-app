@@ -8,6 +8,21 @@ Personal vocabulary organized by week.
 
 ---
 
+## January 2026
+
+### Week 2026-01-18
+
+| # | Word/Phrase | Part of Speech | Ukrainian | Definition | Example |
+|---|-------------|----------------|-----------|------------|---------|
+| 1 | **Shoelace** | Noun | Шнурівка (для взуття) | A thin cord or string used to fasten shoes | My shoelace came undone while I was running. |
+| 2 | **Throughout** | Preposition / Adverb | Протягом, упродовж, по всьому | In every part of; during the whole time or period | She remained calm throughout the exam. / The tradition is celebrated throughout the country. |
+| 3 | **Persuade** | Verb | Переконувати, умовляти | To make someone agree to do something by giving them good reasons | I tried to persuade him to come to the party, but he refused. |
+| 4 | **Frustrating** | Adjective | Розчаровуючий, який викликає розчарування/роздратування | Causing annoyance or upset because you cannot do or achieve what you want | It's frustrating when you know the answer but can't remember it. |
+| 5 | **Perception** | Noun | Сприйняття, розуміння | The way you understand or notice something; awareness through the senses | His perception of the situation was completely different from mine. |
+| 6 | **Tends** | Verb (3rd person singular) | Має тенденцію, схильний | Regularly or frequently behaves in a particular way; is likely to do something | She tends to arrive late to meetings. / The weather tends to be cold in winter. |
+
+---
+
 ## December 2025
 
 ### Words from Homework (Present and Past Habits)

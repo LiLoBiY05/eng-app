@@ -1,1 +1,0 @@
-shoelace, throughout, persuade, frustrating, perception, 
