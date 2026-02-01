@@ -95,9 +95,11 @@ title: Education Vocabulary
 |-------------|----------|---------|
 | **give a lecture** | читати лекцію | Professor Smith **gives lectures** on philosophy. (Професор Сміт читає лекції з філософії.) |
 | **sit an exam** | складати іспит | I have to **sit an exam** next week. (Мені треба складати іспит наступного тижня.) |
+| **hand in** | здати, подати (роботу, завдання) | Don't forget to **hand in** your homework. (Не забудь здати своє домашнє завдання.) |
 | **enrol (on/in)** | записатися (на курс) | I'm going to **enrol on** a summer course. (Я збираюся записатися на літній курс.) |
 | **obey rules** | дотримуватися правил | Students must **obey rules** in the classroom. (Учні повинні дотримуватися правил у класі.) |
 | **frighten** | лякати | The strict teacher **frightened** all the students. (Суворий вчитель лякав усіх учнів.) |
+| **convince** | переконувати | She tried to **convince** me to study harder. (Вона намагалася переконати мене вчитися краще.) |
 | **expelled** | виключений | He got **expelled** from school. (Його виключили зі школи.) |
 
 ---
