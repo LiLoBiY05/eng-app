@@ -8,6 +8,99 @@ Personal vocabulary organized by week.
 
 ---
 
+## February 2026
+
+### Week 2026-02-08 (Education & Memory Unit)
+
+| # | Word/Phrase | Part of Speech | Ukrainian | Definition | Example |
+|---|-------------|----------------|-----------|------------|---------|
+| 1 | **accessible** | Adjective | Доступний, зрозумілий | Easy to reach, use, or understand | The textbook is written in accessible language for all levels. |
+| 2 | **disruptive** | Adjective | Деструктивний, який заважає | Causing problems or interruptions; revolutionary | He was disruptive in class and kept interrupting the teacher. |
+| 3 | **engaging** | Adjective | Захопливий, цікавий | Interesting and attracting attention | The teacher used engaging activities to keep students motivated. |
+| 4 | **fall behind** | Phrasal verb | Відставати (у навчанні) | To make slower progress than others; to fail to keep up | She fell behind in her studies after missing several classes. |
+| 5 | **get a degree** | Verb phrase | Отримати ступінь/диплом | To complete a university course and receive a qualification | He worked hard to get a degree in computer science. |
+| 6 | **get a scholarship** | Verb phrase | Отримати стипендію | To be awarded money to pay for education | She got a scholarship to study at Oxford University. |
+| 7 | **get expelled** | Verb phrase | Бути відрахованим (зі школи) | To be officially removed from a school as a punishment | He got expelled from school for cheating on the exam. |
+| 8 | **get top marks** | Verb phrase | Отримувати найвищі оцінки | To achieve the highest possible grades | She always gets top marks in mathematics. |
+| 9 | **inclined towards** | Adjective phrase | Схильний до, мати нахил | Having a natural tendency or preference for something | He's inclined towards creative subjects like art and music. |
+| 10 | **keen to do sth** | Adjective phrase | Прагнути щось зробити, бути зацікавленим | Eager or enthusiastic about doing something | She's keen to improve her English before the exam. |
+| 11 | **lenient** | Adjective | М'який, поблажливий | Not strict in discipline; tolerant | The teacher was lenient with students who struggled. |
+| 12 | **major in** | Verb phrase | Спеціалізуватися з (предмету) | To study something as the main subject at university | She decided to major in psychology at university. |
+| 13 | **scrape through** | Phrasal verb | Ледве пройти/скласти | To barely pass an exam or get through a difficult situation | He scraped through his final exams with minimum grades. |
+| 14 | **self-disciplined** | Adjective | Самодисциплінований | Able to control your own behaviour without external help | You need to be self-disciplined to study effectively at home. |
+| 15 | **settle down** | Phrasal verb | Заспокоїтися, зосередитися | To become calm and focused; to start concentrating | Please settle down — the lesson is about to begin. |
+| 16 | **strict** | Adjective | Суворий | Demanding that rules be obeyed | Our maths teacher was very strict about homework deadlines. |
+| 17 | **work in the field of** | Verb phrase | Працювати у сфері | To be employed in a particular area or discipline | He works in the field of medical research. |
+| 18 | **write a dissertation** | Verb phrase | Писати дисертацію | To produce a long research paper for a university degree | She spent two years writing her dissertation on climate change. |
+| 19 | **accurately** | Adverb | Точно, правильно | In a way that is correct and without errors | Please read the instructions accurately before starting. |
+| 20 | **jog your memory** | Idiom | Освіжити пам'ять | To help someone remember something | Maybe this photo will jog your memory about the holiday. |
+| 21 | **lose your memory** | Verb phrase | Втратити пам'ять | To become unable to remember things | He lost his memory after the accident. |
+| 22 | **have a clear memory of** | Verb phrase | Чітко пам'ятати щось | To remember something very well | I have a clear memory of my first day at school. |
+| 23 | **have a distant memory of** | Verb phrase | Смутно пам'ятати | To have an unclear recollection of something from long ago | I have a distant memory of that holiday — I was only three. |
+| 24 | **have a good memory for** | Verb phrase | Добре пам'ятати (щось конкретне) | To be able to remember a particular type of thing easily | She has a good memory for faces but not for names. |
+| 25 | **have a memory like a sieve** | Idiom | Пам'ять як решето (все забуває) | To be very forgetful | I've forgotten again — I have a memory like a sieve! |
+| 26 | **have a photographic memory** | Idiom | Мати фотографічну пам'ять | To be able to remember things in exact detail | He has a photographic memory and can recall every page he reads. |
+| 27 | **have a terrible memory for** | Verb phrase | Погано пам'ятати (щось) | To be unable to remember a particular type of thing | I have a terrible memory for numbers. |
+| 28 | **have a vague memory of** | Verb phrase | Мати розпливчасте/нечітке спогади | To have an unclear or uncertain recollection | I have a vague memory of meeting him somewhere before. |
+| 29 | **have a vivid memory of** | Verb phrase | Мати яскравий/чіткий спогад | To remember something very clearly and in detail | She has a vivid memory of the day she got the news. |
+| 30 | **improve your memory** | Verb phrase | Покращити пам'ять | To make your ability to remember things better | Regular exercise can help improve your memory. |
+| 31 | **a great deal** | Noun phrase | Велика кількість, дуже багато | A large amount or number of something | She has learned a great deal since starting the course. |
+| 32 | **academic training** | Noun phrase | Академічна підготовка | Formal education at a higher level institution | Good academic training is essential for this career. |
+| 33 | **acquire a skill** | Verb phrase | Набути навичку | To learn or develop an ability through practice | It takes time to acquire a skill like public speaking. |
+| 34 | **bang on the head** | Noun phrase | Удар по голові | A hard blow to the head | He got a bang on the head and was concussed. |
+| 35 | **be found unconscious** | Verb phrase | Бути знайденим непритомним | To be discovered in a state of unconsciousness | He was found unconscious on the floor after the accident. |
+| 36 | **be hit by lightning** | Verb phrase | Бути вдареним блискавкою | To be struck by an electrical discharge from the sky | He was hit by lightning while playing golf. |
+| 37 | **be left unconscious** | Verb phrase | Залишитися непритомним | To be knocked out and lose consciousness | She was left unconscious after the fall. |
+| 38 | **be made up of** | Verb phrase | Складатися з | To consist of particular parts or people | The committee is made up of ten members. |
+| 39 | **be struck by lightning** | Verb phrase | Бути вдареним блискавкою | To be hit by a lightning bolt | The old tree was struck by lightning during the storm. |
+| 40 | **be the brains behind sth** | Idiom | Бути генієм/мозком за чимось | To be the person responsible for planning something clever | She was the brains behind the whole project. |
+| 41 | **perception** | Noun | Сприйняття | The way you notice or understand something | His perception of the problem was quite different from mine. |
+| 42 | **tend to do sth** | Verb phrase | Мати тенденцію, схильний | To be likely to behave in a particular way | I tend to forget names but remember faces. |
+| 43 | **urge sb to do sth** | Verb phrase | Закликати, настійно радити | To strongly advise or encourage someone to do something | The doctor urged him to rest for at least a week. |
+| 44 | **appear** | Verb | З'являтися; здаватися | To come into sight; to seem | She appeared nervous before the presentation. |
+| 45 | **based on** | Preposition phrase | На основі, базуючись на | Using something as a foundation or starting point | The film is based on a true story. |
+| 46 | **certainly** | Adverb | Безперечно, звичайно | Without doubt; definitely | This is certainly one of the most interesting books I've read. |
+| 47 | **clearly** | Adverb | Чітко, ясно, очевидно | In a way that is easy to see or understand | Please speak clearly so everyone can hear you. |
+| 48 | **confused** | Adjective | Розгублений, збентежений | Unable to understand or think clearly | I was confused by the instructions — they weren't clear. |
+| 49 | **definitely** | Adverb | Точно, безумовно | Without any doubt; certainly | I will definitely be there on time. |
+| 50 | **determined** | Adjective | Рішучий, цілеспрямований | Having made a firm decision and not changing it | She was determined to pass her exams no matter what. |
+| 51 | **enthusiastic** | Adjective | Ентузіастичний, захоплений | Showing great interest and energy | The students were enthusiastic about the new project. |
+| 52 | **expression** | Noun | Вираз (обличчя); вираження | A look on someone's face; a word or phrase | She had a surprised expression when she heard the news. |
+| 53 | **hard to be sure** | Adjective phrase | Важко бути впевненим | Difficult to say with certainty | It's hard to be sure whether he understood the task. |
+| 54 | **intend to** | Verb phrase | Мати намір, збиратися | To plan or mean to do something | I intend to study for two hours every evening. |
+| 55 | **judging by** | Preposition phrase | Судячи з, виходячи з | Based on evidence or appearance | Judging by his marks, he studied very hard. |
+| 56 | **obvious** | Adjective | Очевидний, зрозумілий | Easy to see or understand; clear | It was obvious she hadn't prepared for the test. |
+| 57 | **pedestrian** | Adjective / Noun | Буденний, нецікавий; пішохід | Dull and ordinary; a person walking | His essay was a bit pedestrian — no original ideas. |
+| 58 | **pull out** | Phrasal verb | Виходити, відмовлятися, витягати | To withdraw from something; to remove | He pulled out of the competition due to injury. |
+| 59 | **relieved** | Adjective | Полегшений, заспокоєний | Feeling happy because something bad didn't happen | I was relieved when I found out I had passed. |
+| 60 | **thrilled** | Adjective | У захваті, дуже радий | Very excited and happy | She was thrilled to get accepted into the programme. |
+| 61 | **uncertainty** | Noun | Невизначеність, невпевненість | The state of not knowing what will happen | There's a lot of uncertainty about the exam format this year. |
+| 62 | **considerable** | Adjective | Значний, чималий | Large in size, amount, or degree | She has made considerable progress this term. |
+| 63 | **contribute to** | Verb phrase | Робити внесок у, сприяти | To help cause or produce a result | Regular reading contributes to better writing skills. |
+| 64 | **covering letter** | Noun | Супровідний лист | A letter sent with a job application | Always include a covering letter with your CV. |
+| 65 | **dedicated member of** | Noun phrase | Відданий/старанний член (команди) | A committed and loyal participant in a group | She's a dedicated member of the student council. |
+| 66 | **excellent command of** | Noun phrase | Відмінне володіння (мовою) | A very good ability to use a language | He has an excellent command of written English. |
+| 67 | **gain work experience** | Verb phrase | Набути досвіду роботи | To get practical knowledge through working | It's important to gain work experience before graduating. |
+| 68 | **in response to** | Preposition phrase | У відповідь на | As a reaction to something | In response to the feedback, we updated the course. |
+| 69 | **lead a team** | Verb phrase | Керувати командою | To be in charge of and guide a group of people | She was asked to lead a team of five researchers. |
+| 70 | **meet deadlines** | Verb phrase | Виконувати роботу вчасно | To complete work by the required time | It's essential to meet deadlines in any professional job. |
+| 71 | **part-time job** | Noun phrase | Робота на неповний робочий день | Employment for fewer hours than a full-time position | She has a part-time job at a café while studying. |
+| 72 | **practical experience of** | Noun phrase | Практичний досвід у | Real-world knowledge gained through doing | Employers value practical experience of working in a team. |
+| 73 | **prove ability to** | Verb phrase | Довести здатність до | To demonstrate that you can do something | You need to prove your ability to work under pressure. |
+| 74 | **pursue a career** | Verb phrase | Будувати кар'єру | To actively work towards a professional goal | She wants to pursue a career in education. |
+| 75 | **sit in** | Phrasal verb | Бути присутнім (як спостерігач) | To attend a class or meeting as an observer | Can I sit in on your lesson today? |
+| 76 | **summer job** | Noun phrase | Літня підробітка | Temporary employment during summer holidays | He got a summer job at a local restaurant. |
+| 77 | **supervise** | Verb | Наглядати, керувати | To watch over and direct someone's work | The teacher supervised the students during the exam. |
+| 78 | **valuable** | Adjective | Цінний, важливий | Worth a lot; very useful or important | This experience will be very valuable for your career. |
+| 79 | **volunteer** | Verb / Noun | Волонтерити; волонтер | To offer to do something without being paid | She volunteered at the local library during the summer. |
+| 80 | **welcome an opportunity** | Verb phrase | Вітати можливість | To be happy about a chance to do something | I welcome the opportunity to work with such a talented team. |
+| 81 | **well suited** | Adjective phrase | Добре підходить, відповідає | Appropriate or right for a particular purpose | Her skills make her well suited for this role. |
+| 82 | **well-developed** | Adjective | Добре розвинений | Fully or thoroughly developed | She has well-developed communication skills. |
+| 83 | **work alongside** | Verb phrase | Працювати поряд/разом | To work with someone as a colleague | I had the chance to work alongside experienced professionals. |
+| 84 | **work placement** | Noun phrase | Виробнича практика | A period of work experience as part of a course | The course includes a six-week work placement. |
+
+---
+
 ## January 2026
 
 ### Week 2026-01-18
