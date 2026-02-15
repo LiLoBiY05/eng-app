@@ -157,6 +157,71 @@ title: Articles — A, AN, THE
 
 ---
 
+## THE vs A/AN — Один або кілька однотипних?
+
+Це дуже поширена ситуація: коли в реченні є **кілька схожих речей**, артикль залежить від того, чи є вона **єдиною відомою** або **однією з кількох**.
+
+### Ресторани — класичний приклад
+
+> *There's **a** Chinese restaurant and **an** Indian restaurant near my office, but I prefer **the** Italian one.*
+
+**Чому так?**
+
+| Частина речення | Артикль | Причина |
+|-----------------|---------|---------|
+| *a Chinese restaurant* | **a** | Вперше згадуємо — один з багатьох |
+| *an Indian restaurant* | **an** | Теж вперше, один з кількох (an — бо "Indian" /ɪ/ — голосний) |
+| *the Italian one* | **the** | Вже контекст зрозумілий — "той самий, про який кажу" |
+
+---
+
+### Два і більше однотипних — правило
+
+Якщо є **два або більше** схожих предмети, і ми їх ще не ідентифікували — використовуємо **a/an** для кожного:
+
+> *There's **a** cat and **a** dog in the garden.*
+> *She has **a** brother and **a** sister.*
+> *We visited **a** museum and **a** gallery.*
+
+Але щойно предмет стає **конкретним і відомим** — переходимо на **the**:
+
+> *We visited a museum and a gallery. **The** museum was fascinating, but **the** gallery was closed.*
+
+---
+
+### Два однакових — як відрізнити?
+
+Якщо є **два об'єкти одного типу**, ми можемо їх позначити за допомогою **the + прикметник/деталь**:
+
+> *We have two restaurants here — **the** Chinese one and **the** Italian one.*
+(Обидва вже відомі з контексту — тому **the**.)
+
+> *I went to **a** Chinese restaurant yesterday.* (Просто якийсь, вперше згадую.)
+> *I went to **the** Chinese restaurant on Park Street.* (Конкретний, відомий.)
+
+---
+
+### Порівняй:
+
+| Речення | Значення |
+|---------|---------|
+| *Is there **a** Italian restaurant nearby?* | Будь-який, не конкретний |
+| *Where is **the** Italian restaurant?* | Конкретний, який ми обоє знаємо |
+| *I know **a** good Italian restaurant.* | Один з багатьох, вперше згадую |
+| *How was **the** Italian restaurant?* | Той, який ми вже обговорювали |
+
+---
+
+### Ще приклади
+
+> *In our town there's **a** French bakery, **an** English pub and **a** Japanese sushi bar. I love **the** bakery most — their croissants are amazing.*
+
+> *She bought **a** red dress and **a** blue one. She wore **the** red one to the party.*
+
+> *There are two cinemas — **the** old one near the station and **the** new one in the shopping centre.*
+
+---
+
 ## Типові помилки
 
 | ❌ Неправильно | ✅ Правильно | Пояснення |
