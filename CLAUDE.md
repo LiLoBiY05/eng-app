@@ -29,44 +29,68 @@ The application is built around Nuxt Content v3 with a dynamic catch-all routing
 - **Dynamic Routing**: The `app/pages/[...slug].vue` catch-all route handles all content pages, querying content via `queryCollection("content").path(route.path).first()`
 
 #### Content Organization
-The content folder is organized by student, with each student having their own learning materials:
+The content folder is split into two main sections — student-specific content and a shared library:
 
 ```
 content/
 ├── index.md                           # Portal home page
-├── yurii-rostyslav/                   # Student folder
-│   ├── index.md                       # Student overview
-│   ├── themes/                        # Grammar lessons and topics
-│   │   ├── index.md
-│   │   └── tenses/
-│   │       └── past_simple_vs_present_perfect.md
-│   ├── homework/                      # Assignments (date-based naming)
-│   │   ├── index.md
-│   │   └── 2024-11-30.md
-│   └── vocabulary/                    # Word lists
-│       └── index.md
-├── kate/                              # Another student folder
-│   ├── index.md
-│   ├── themes/
-│   ├── homework/
-│   └── vocabulary/
-└── resources/                          # Shared global resources
-    ├── 1.tenses/                       # All English tenses (numbered for ordering)
-    │   ├── 1.present/
-    │   ├── 2.past/
-    │   └── 3.future/
-    ├── 2.irregular-verbs/              # Lists of irregular verbs
-    ├── 3.grammar-rules/                # Other grammar topics
-    ├── 4.exercises/
-    └── 5.tips/
+├── students/
+│   ├── yurii/                         # Student folder
+│   │   ├── index.md                   # Student overview
+│   │   ├── homework/                  # Assignments (numbered prefix + date)
+│   │   │   ├── 1.homework-18.01.md
+│   │   │   └── 9.homework-19.04.md
+│   │   └── vocabulary/                # Personal word lists (topic-based files)
+│   │       ├── index.md
+│   │       ├── 1.education.md
+│   │       ├── 2.memory.md
+│   │       ├── 3.work-career.md
+│   │       ├── 4.general.md
+│   │       ├── 5.emotions-personality.md
+│   │       ├── 6.phrases-idioms.md
+│   │       ├── 7.body-language.md
+│   │       └── 8.urban-city.md
+│   └── kate/                          # Another student folder
+│       ├── index.md
+│       ├── homework.md
+│       └── vocabulary.md
+└── library/                           # Shared reference library (all students)
+    ├── index.md
+    ├── tenses/                        # All 14 English tenses
+    │   ├── index.md
+    │   ├── 1.present-simple.md ✅
+    │   ├── 2.present-continuous.md
+    │   └── ...
+    ├── irregular-verbs/
+    │   └── index.md
+    ├── grammar/                       # Grammar topics
+    │   ├── articles-a-an-the.md
+    │   ├── passive-voice.md
+    │   ├── prepositions-in-on-at.md
+    │   ├── relative-clauses.md
+    │   ├── used-to.md
+    │   ├── word-formation-prefixes-suffixes.md
+    │   └── infinitive-gerund/         # Multi-file topic (decision tree, patterns, etc.)
+    └── vocabulary/                    # Reference vocabulary by topic
+        ├── phrasal-verbs.md           # Index + guide
+        ├── phrasal-verbs-1-50.md
+        ├── phrasal-verbs-51-100.md
+        ├── common-phrasal-verbs.md
+        ├── put-phrasal-verbs.md
+        ├── emotions-feelings.md
+        ├── education-vocabulary.md
+        ├── studying-academic-vocabulary.md
+        ├── memory-brain-vocabulary.md
+        ├── housing-vocabulary.md
+        └── health-idioms.md
 ```
 
 **Key principles:**
-- Each student has their own isolated learning space
-- Homework files use date format: `YYYY-MM-DD.md`
-- Themes can be organized by subtopic (e.g., `themes/tenses/`, `themes/modals/`)
-- Global resources are shared across all students
-- Resources use numbered prefixes (1., 2., 3.) for ordering - Nuxt automatically removes these from URLs
+- Each student has their own isolated space under `students/`
+- Homework files use numbered prefix + lesson date: `N.homework-DD.MM.md`
+- Vocabulary files use numbered prefixes for topic ordering (e.g., `1.education.md`, `5.emotions-personality.md`)
+- The `library/` folder contains reference material shared across all students
+- Numbered prefixes (1., 2., 3.) control nav ordering — Nuxt automatically removes them from URLs
 
 ### Navigation System
 The Navigation component (`app/components/Navigation.vue`) auto-generates from content structure:
@@ -115,23 +139,29 @@ Key Nuxt modules in use:
 
 ### Adding New Content
 
-**For student-specific content:**
-1. Navigate to the student's folder (e.g., `content/yurii-rostyslav/`)
-2. Choose the appropriate subfolder:
-   - `themes/` for grammar lessons and learning topics
-   - `homework/` for assignments (use `YYYY-MM-DD.md` naming)
-   - `vocabulary/` for word lists
-3. Create a `.md` file with appropriate frontmatter
-4. Update the corresponding `index.md` file to link to the new content
+**For student homework:**
+1. Navigate to `content/students/yurii/homework/`
+2. Name the file with a numbered prefix + lesson date: `N.homework-DD.MM.md`
+   - Example: `9.homework-19.04.md` (lesson 9, April 19)
+3. Add frontmatter with at least a `title` field
 
-**For shared resources:**
-1. Add content to `content/resources/` in the appropriate subfolder
-2. These are accessible to all students
+**For student vocabulary:**
+1. Navigate to `content/students/yurii/vocabulary/`
+2. Add new words to the appropriate topic file (e.g., `8.urban-city.md`)
+3. To create a new topic, add a new numbered file (e.g., `9.new-topic.md`) and link it in `index.md`
+4. Each vocabulary table uses columns: `#`, `Word/Phrase`, `Part of Speech`, `Ukrainian`, `Definition`, `Example`
+
+**For shared library content:**
+- Grammar topics → `content/library/grammar/`
+- Vocabulary reference → `content/library/vocabulary/`
+- Tenses → `content/library/tenses/`
+- These are accessible to all students
 
 **Examples:**
-- New homework: `content/yurii-rostyslav/homework/2024-12-08.md`
-- New theme: `content/kate/themes/modals/modal-verbs.md`
-- Shared exercise: `content/resources/exercises/tense-practice.md`
+- New homework: `content/students/yurii/homework/10.homework-26.04.md`
+- New vocabulary topic: `content/students/yurii/vocabulary/9.science.md`
+- New grammar topic: `content/library/grammar/conditionals.md`
+- New phrasal verb set: `content/library/vocabulary/phrasal-verbs-101-150.md`
 
 ### Content Frontmatter
 All markdown files should include frontmatter with at least a `title` field:
@@ -156,74 +186,49 @@ This approach provides:
 - Clean, semantic URLs for users
 - Easy reordering by changing numbers
 
-## Shared Resources Structure
+## Library Structure (`content/library/`)
 
-### Tenses (`content/resources/tenses/`)
+The library contains reference material shared across all students. Content is written in English with Ukrainian explanations.
 
-Complete reference for all English tenses with Ukrainian explanations and English examples.
+### Tenses (`content/library/tenses/`)
 
-**Structure:**
-```
-1.tenses/
-├── index.md
-├── 1.present/
-│   ├── index.md
-│   ├── 1.present-simple.md ✅
-│   ├── 2.present-continuous.md ⏳
-│   ├── 3.present-perfect.md ⏳
-│   └── 4.present-perfect-continuous.md ⏳
-├── 2.past/
-│   ├── index.md
-│   ├── 5.past-simple.md ✅
-│   ├── 6.past-continuous.md ⏳
-│   ├── 7.past-perfect.md ⏳
-│   └── 8.past-perfect-continuous.md ⏳
-└── 3.future/
-    ├── index.md
-    ├── 9.future-simple.md ⏳
-    ├── 10.future-continuous.md ⏳
-    ├── 11.future-perfect.md ⏳
-    ├── 12.future-perfect-continuous.md ⏳
-    ├── 13.going-to-future.md ⏳
-    └── 14.future-in-the-past.md ⏳
-```
+All 14 English tenses as individual numbered files (flat structure, no subfolders).
 
-**Legend:**
-- ✅ Complete with full content
-- ⏳ Placeholder ("Content coming soon...")
+**When adding/editing tense content**, follow the structure of completed tenses:
+- Introduction (Що це таке?)
+- Formula tables (стверджувальна, заперечна, питальна форми)
+- Usage cases with examples (Коли використовувати?)
+- Time markers table
+- Common mistakes section with ❌/✅ examples
+- Practice exercises with answers
+- Useful tips
 
-**When adding new tense content:**
-1. Navigate to the appropriate category folder (`1.present/`, `2.past/`, `3.future/`)
-2. Edit the corresponding numbered `.md` file
-3. Follow the structure of completed tenses (Present Simple, Past Simple):
-   - Introduction section (Що це таке?)
-   - Formula tables (стверджувальна, заперечна, питальна форми)
-   - Usage cases with examples (Коли використовувати?)
-   - Time markers table
-   - Common mistakes section with ❌/✅ examples
-   - Practice exercises with answers
-   - Useful tips section
-4. Include both Ukrainian explanations and English examples throughout
+Include both Ukrainian explanations and English examples throughout.
 
-### Irregular Verbs (`content/resources/irregular-verbs/`)
+### Grammar (`content/library/grammar/`)
 
-Complete list of irregular verbs organized in groups of 50.
+Individual grammar topic files. Multi-part topics use a subfolder with numbered files (see `infinitive-gerund/` as the pattern).
 
-**Structure:**
-```
-2.irregular-verbs/
-├── index.md
-├── 1.verbs-1-50.md ✅ (Most common 50 verbs)
-├── 2.verbs-51-100.md ✅ (Additional 50 verbs)
-└── 3.verbs-101-150.md ⏳ (Future expansion)
-```
+### Vocabulary (`content/library/vocabulary/`)
 
-**When adding more verbs (101-150, 151-200, etc.):**
-1. Create new file: `3.verbs-101-150.md`
-2. Follow the table structure: V1, V2, V3, Ukrainian translation, example
-3. Group verbs by pattern (A-A-A, A-B-B, A-B-C, i-a-u, etc.)
-4. Include practice exercises with answers
-5. Update `index.md` to link to the new list
+Reference vocabulary organized by topic. Each file covers one topic with overview tables, detailed breakdowns, collocations, common mistakes, and exercises with answers.
+
+**Phrasal verbs are split across files:**
+- `phrasal-verbs.md` — index and guide to types
+- `phrasal-verbs-1-50.md` — 50 most common
+- `phrasal-verbs-51-100.md` — education/work focused
+- `common-phrasal-verbs.md` — 19 high-frequency verbs with full breakdowns
+- `put-phrasal-verbs.md` — all meanings of PUT
+
+**When adding a new vocabulary file**, include:
+1. Overview table (word, Ukrainian, example)
+2. Detailed breakdown per word/phrase
+3. Common mistakes (❌/✅)
+4. Practice exercises with answers
+
+### Irregular Verbs (`content/library/irregular-verbs/`)
+
+Currently has `index.md` only — verbs to be added in groups of 50 following V1/V2/V3 table format with Ukrainian translations and examples.
 
 ## TypeScript Configuration
 The project uses TypeScript with Nuxt's auto-generated types. After making configuration changes, run `yarn postinstall` (or `nuxt prepare`) to regenerate types.

@@ -1,202 +1,197 @@
 ---
 title: Emotions and Feelings
+description: English vocabulary for describing emotions, feelings, and states of mind
 ---
 
 # Emotions and Feelings
 
-Словник англійських слів для опису емоцій, почуттів та станів.
+Vocabulary for describing emotions, feelings, and states of mind in English.
 
 ---
 
-## Позитивні емоції
+## Positive Emotions
 
 | Word | Переклад | Пояснення | Приклад |
 |------|----------|-----------|---------|
-| **relieved** | полегшений, заспокоєний | Feeling happy because something bad did not happen or a difficult situation ended | I was **relieved** when I passed the exam. (Мені полегшало, коли я склав іспит.) |
-| **thrilled** | у захваті, дуже радий | Extremely happy and excited about something | I'm **thrilled** to hear the good news! (Я в захваті від хороших новин!) |
+| **relieved** | полегшений, заспокоєний | Feeling happy because something bad did not happen or a difficult situation ended | I was **relieved** when I passed the exam. |
+| **thrilled** | у захваті, дуже радий | Extremely happy and excited about something | I'm **thrilled** to hear the good news! |
+| **content** | задоволений, вдоволений | Feeling satisfied and at ease with your situation | She felt **content** with her quiet life in the countryside. |
+| **elated** | окрилений, у захваті | Extremely happy and full of energy | He was **elated** when he got the promotion. |
+| **proud** | гордий | Feeling pleased about your own or someone else's achievement | She was **proud** of her children's results. |
+| **optimistic** | оптимістичний | Expecting good things to happen | Despite the challenges, she remained **optimistic** about the future. |
+| **grateful** | вдячний | Feeling thankful for something someone has done | I'm really **grateful** for your help. |
+| **inspired** | натхненний | Feeling motivated and creative after seeing or hearing something | I felt **inspired** after watching the documentary. |
+| **hopeful** | сповнений надії | Believing that a good thing will happen | We're **hopeful** that things will improve. |
 
 ---
 
-## Негативні емоції
+## Negative Emotions
 
 | Word | Переклад | Пояснення | Приклад |
 |------|----------|-----------|---------|
-| **frustrated** | розчарований, засмучений | Feeling annoyed or angry because you cannot do what you want | I felt **frustrated** when I couldn't solve the problem. (Я відчував розчарування, коли не міг вирішити проблему.) |
+| **frustrated** | розчарований, засмучений | Feeling annoyed because you cannot do what you want or achieve your goal | I felt **frustrated** when I couldn't solve the problem. |
+| **anxious** | тривожний, стурбований | Feeling worried and nervous about something that may happen | She felt **anxious** before the interview. |
+| **overwhelmed** | приголомшений, знесилений | Feeling that something is too much to cope with | He was **overwhelmed** by the amount of work. |
+| **devastated** | спустошений, розбитий | Feeling extremely shocked and upset | She was **devastated** when she heard the news. |
+| **miserable** | нещасний, пригнічений | Very unhappy | He looked **miserable** sitting alone in the corner. |
+| **ashamed** | соромний, принижений | Feeling embarrassed or guilty about something you have done | She was **ashamed** of her behaviour at the party. |
+| **envious** | заздрісний | Wishing you had something that someone else has | He felt **envious** of his colleague's success. |
+| **resentful** | ображений, незадоволений | Feeling angry because you feel you have been treated unfairly | She was **resentful** about being passed over for promotion. |
+| **gloomy** | похмурий, пригнічений | Feeling sad and without hope | He was in a **gloomy** mood after losing the match. |
 
 ---
 
-## Порівняння схожих слів
+## Complex / Mixed Emotions
+
+| Word | Переклад | Пояснення | Приклад |
+|------|----------|-----------|---------|
+| **nostalgic** | ностальгічний | Feeling happy and sad when thinking about the past | Looking at old photos made her feel **nostalgic**. |
+| **indifferent** | байдужий | Having no interest or feeling about something | He seemed completely **indifferent** to the outcome. |
+| **conflicted** | роздвоєний, у суперечності з собою | Having opposing feelings about something | I felt **conflicted** about leaving my job — I loved it but needed a change. |
+| **bittersweet** | гіркосолодкий | Feeling both happy and sad at the same time | It was a **bittersweet** moment — happy to graduate but sad to leave. |
+| **apprehensive** | стурбований, з побоюванням | Slightly anxious about a future event | She was **apprehensive** about starting her new job. |
+| **awkward** | ніяковий, незручний | Feeling embarrassed or socially uncomfortable | He felt **awkward** at the party where he didn't know anyone. |
+
+---
+
+## Describing Intensity
+
+### Making emotions stronger
+
+| Intensifier | Use with | Example |
+|-------------|----------|---------|
+| **absolutely** | thrilled, devastated, overwhelmed | I'm **absolutely thrilled** with the results! |
+| **deeply** | relieved, ashamed, grateful | We were **deeply relieved** that everyone was safe. |
+| **incredibly** | proud, grateful, anxious | She was **incredibly proud** of her son. |
+| **utterly** | miserable, devastated | He was **utterly miserable** after the break-up. |
+| **increasingly** | frustrated, anxious | He became **increasingly frustrated** with the situation. |
+
+---
+
+## Key Prepositions
+
+| Emotion | Preposition | Example |
+|---------|-------------|---------|
+| **relieved** | about / that | I'm **relieved about** the results. / I'm **relieved that** you're okay. |
+| **thrilled** | about / with / to | She's **thrilled about** the news. / I'm **thrilled to** meet you. |
+| **frustrated** | with / by / at | He's **frustrated with** his work. |
+| **proud** | of | She's so **proud of** her children. |
+| **anxious** | about | I'm **anxious about** the exam. |
+| **grateful** | for / to | I'm **grateful for** your help. / I'm **grateful to** you. |
+| **envious** | of | She was **envious of** her friend's lifestyle. |
+| **ashamed** | of | He was **ashamed of** what he said. |
+
+---
+
+## Important Distinctions
 
 ### Relieved vs Happy
 
-| Word | Значення | Коли використовувати |
-|------|----------|---------------------|
-| **Happy** | Радісний | Загальна радість від чогось хорошого |
-| **Relieved** | Полегшений | Радість від того, що уникнув чогось поганого або завершив щось важке |
+| Word | When to use |
+|------|-------------|
+| **happy** | General joy about something good |
+| **relieved** | Joy specifically because something bad didn't happen or a difficult thing ended |
 
-**Приклади:**
-- ✅ I'm **happy** about my new job. (Я радий з приводу нової роботи.)
-- ✅ I'm **relieved** the exam is over. (Мені полегшало, що іспит закінчився.)
-
----
+- ✅ I'm **happy** about my new job.
+- ✅ I'm **relieved** the exam is over.
 
 ### Thrilled vs Excited
 
-| Word | Значення | Інтенсивність |
-|------|----------|---------------|
-| **Excited** | Схвильований, збуджений | Середня інтенсивність |
-| **Thrilled** | У захваті, дуже радий | Висока інтенсивність |
+| Word | Intensity |
+|------|-----------|
+| **excited** | Moderate — looking forward to something |
+| **thrilled** | High — extremely happy about something |
 
-**Приклади:**
-- ✅ I'm **excited** about the party. (Я схвильований з приводу вечірки.)
-- ✅ I'm **thrilled** to meet my favorite actor! (Я в захваті від зустрічі з моїм улюбленим актором!)
-
----
+- ✅ I'm **excited** about the party.
+- ✅ I'm **thrilled** to meet my favourite actor!
 
 ### Frustrated vs Angry
 
-| Word | Значення | Причина |
-|------|----------|---------|
-| **Angry** | Злий, розлючений | Злість на когось/щось |
-| **Frustrated** | Розчарований, засмучений | Неможливість досягти мети або зробити щось |
+| Word | Cause |
+|------|-------|
+| **angry** | Directed at someone or something |
+| **frustrated** | Caused by inability to do something or achieve a goal |
 
-**Приклади:**
-- ✅ I'm **angry** at him for lying. (Я злюсь на нього за брехню.)
-- ✅ I'm **frustrated** because I can't understand this lesson. (Я розчарований, бо не можу зрозуміти цей урок.)
+- ✅ I'm **angry** at him for lying.
+- ✅ I'm **frustrated** because I can't understand this lesson.
 
----
+### Anxious vs Nervous
 
-## Граматика та вживання
-
-### Прийменники після цих слів
-
-| Емоція | Прийменник | Приклад |
-|--------|-----------|---------|
-| **relieved** | about, that | I'm **relieved about** the results. / I'm **relieved that** you're okay. |
-| **thrilled** | about, with, to | She's **thrilled about** the news. / I'm **thrilled to** meet you. |
-| **frustrated** | with, by, at | He's **frustrated with** his work. / I'm **frustrated by** the delay. |
+| Word | Note |
+|------|------|
+| **nervous** | About a specific upcoming event (interview, exam) |
+| **anxious** | More general worry; can be ongoing |
 
 ---
 
-## Колокації
+## Common Collocations
 
-### З "relieved"
+### With "relieved"
+- **feel relieved** — I **feel relieved** now.
+- **look relieved** — She **looked relieved** when she heard the news.
+- **deeply relieved** — We were **deeply relieved** that everyone was safe.
 
-| Collocation | Переклад | Приклад |
-|-------------|----------|---------|
-| **feel relieved** | відчувати полегшення | I **feel relieved** now. (Тепер я відчуваю полегшення.) |
-| **look relieved** | виглядати полегшеним | She **looked relieved** when she heard the news. (Вона виглядала полегшеною, коли почула новини.) |
-| **deeply relieved** | глибоко полегшений | We were **deeply relieved** that everyone was safe. (Ми відчували глибоке полегшення, що всі в безпеці.) |
+### With "thrilled"
+- **absolutely thrilled** — I'm **absolutely thrilled** with the results!
+- **thrilled to bits** (informal) — She was **thrilled to bits** when she won.
 
-### З "thrilled"
+### With "frustrated"
+- **feel/get frustrated** — Don't **get frustrated** – keep trying!
+- **increasingly frustrated** — He became **increasingly frustrated** with the situation.
 
-| Collocation | Переклад | Приклад |
-|-------------|----------|---------|
-| **absolutely thrilled** | абсолютно в захваті | I'm **absolutely thrilled** with the results! (Я абсолютно в захваті від результатів!) |
-| **thrilled to bits** | дуже-дуже радий (розмовне) | She was **thrilled to bits** when she won. (Вона була дуже-дуже рада, коли виграла.) |
-
-### З "frustrated"
-
-| Collocation | Переклад | Приклад |
-|-------------|----------|---------|
-| **feel frustrated** | відчувати розчарування | I **feel frustrated** when things don't work. (Я відчуваю розчарування, коли щось не працює.) |
-| **get frustrated** | розчаровуватися | Don't **get frustrated** – keep trying! (Не розчаровуйся – продовжуй пробувати!) |
-| **increasingly frustrated** | все більше розчарований | He became **increasingly frustrated** with the situation. (Він ставав все більше розчарованим ситуацією.) |
+### With "anxious"
+- **feel anxious** — She began to **feel anxious** as the deadline approached.
+- **deeply anxious** — He was **deeply anxious** about the surgery.
 
 ---
 
-## Вправи
+## Exercises
 
-### Вправа 1: Вибери правильне слово
+### Exercise 1: Choose the right word
 
 1. I was _____ when the test was finally over. (relieved / thrilled / frustrated)
 2. She's _____ to be going to Paris! (relieved / thrilled / frustrated)
 3. He felt _____ because he couldn't find a solution. (relieved / thrilled / frustrated)
-4. We're _____ that nobody got hurt. (relieved / thrilled / frustrated)
-5. I'm _____ about my exam results – they're amazing! (relieved / thrilled / frustrated)
+4. She looked at the old photos and felt _____ about her school days. (nostalgic / indifferent / elated)
+5. He was _____ — happy to finish but sad to leave. (apprehensive / bittersweet / resentful)
 
-### Вправа 2: Заповни правильний прийменник
+### Exercise 2: Fill in the preposition
 
 1. I'm relieved _____ the news.
 2. She's thrilled _____ meet you.
 3. He's frustrated _____ his computer.
-4. They were relieved _____ everyone was safe.
-5. I'm thrilled _____ the results!
+4. We're so proud _____ you!
+5. I'm really grateful _____ your help.
 
-### Вправа 3: Переклади на англійську
+### Exercise 3: Translate into English
 
 1. Мені полегшало, що іспит закінчився.
 2. Вона в захваті від нової роботи.
 3. Я розчарований, бо не можу це зробити.
-4. Ми раді, що ти в безпеці.
-5. Він дуже радий своїм результатам.
-
-### Вправа 4: Обери правильну колокацію
-
-1. I _____ relieved when I heard the news. (feel / felt / feeling)
-2. She was _____ thrilled to win the competition. (very / absolutely / much)
-3. Don't _____ frustrated – it takes time! (be / feel / get)
-4. He looked _____ when the problem was solved. (relieved / thrilled / frustrated)
-5. They became _____ frustrated with the delays. (more / increasingly / very)
+4. Він був дуже гордий своїми результатами.
+5. Ми дуже вдячні за твою допомогу.
 
 ---
 
-## Відповіді
+## Answers
 
-### Вправа 1:
-1. relieved
-2. thrilled
-3. frustrated
-4. relieved
-5. thrilled
+**Exercise 1:** 1-relieved, 2-thrilled, 3-frustrated, 4-nostalgic, 5-bittersweet
 
-### Вправа 2:
-1. about
-2. to
-3. with / by
-4. that
-5. about / with
+**Exercise 2:** 1-about, 2-to, 3-with/by, 4-of, 5-for
 
-### Вправа 3:
+**Exercise 3:**
 1. I was relieved that the exam was over. / I felt relieved when the exam finished.
-2. She's thrilled about her new job. / She's thrilled with her new job.
-3. I'm frustrated because I can't do it. / I feel frustrated that I can't do this.
-4. We're relieved that you're safe. / We're happy/relieved you're safe.
-5. He's absolutely thrilled with his results. / He's thrilled about his results.
-
-### Вправа 4:
-1. felt
-2. absolutely
-3. get
-4. relieved
-5. increasingly
+2. She's thrilled about her new job.
+3. I'm frustrated because I can't do it.
+4. He was incredibly/absolutely proud of his results.
+5. We're really grateful for your help.
 
 ---
 
-## Корисні поради
+## Tips
 
-1. **Relieved** завжди використовується для опису почуттів після складної або тривожної ситуації
-2. **Thrilled** - це дуже сильна емоція, інтенсивніша за "happy" або "excited"
-3. **Frustrated** не те саме, що "angry" - це більше про неможливість щось зробити, ніж про злість
-4. З емоціями часто використовуються прислівники для підсилення: absolutely thrilled, deeply relieved, increasingly frustrated
-5. Не плутай: "I'm frustrated" (я розчарований) vs "It's frustrating" (це розчаровує)
-
----
-
-## Додаткові вирази
-
-### Синоніми
-
-| Word | Синоніми |
-|------|----------|
-| **relieved** | glad, at ease, reassured |
-| **thrilled** | delighted, ecstatic, overjoyed, excited |
-| **frustrated** | annoyed, irritated, exasperated, discouraged |
-
-### Антоніми
-
-| Word | Антоніми |
-|------|----------|
-| **relieved** | worried, anxious, concerned |
-| **thrilled** | disappointed, unhappy, bored |
-| **frustrated** | satisfied, content, pleased |
+1. **Relieved** — always used after a tense or difficult situation
+2. **Thrilled** — much stronger than "happy" or "excited"
+3. **Frustrated** ≠ **angry** — it's about being unable to do something, not about blame
+4. Use intensifiers to be more expressive: *absolutely thrilled*, *deeply relieved*, *utterly devastated*
+5. Don't confuse: "I'm **frustrated**" (I feel it) vs "It's **frustrating**" (it causes this feeling)
