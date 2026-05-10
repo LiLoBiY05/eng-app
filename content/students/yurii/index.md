@@ -8,6 +8,7 @@ title: Yurii
 
 - [Homework](/students/yurii/homework) - All assignments and practice exercises
 - [Vocabulary](/students/yurii/vocabulary) - Personal vocabulary lists
+- [Grammar Notes](/students/yurii/grammar) - Fixed phrases, collocations, and personal rules
 
 ## Shared Resources
 
