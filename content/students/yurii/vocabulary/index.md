@@ -16,3 +16,5 @@ Personal vocabulary organized by topic.
 - [Phrases, Idioms & Storytelling](/students/yurii/vocabulary/phrases-idioms) — collocations, idioms, anecdote phrases
 - [Body Language & Actions](/students/yurii/vocabulary/body-language) — gestures, physical reactions, verbs of looking
 - [Urban Life & City](/students/yurii/vocabulary/urban-city) — streets, transport, city issues, describing places
+- [Living Spaces](/students/yurii/vocabulary/living-spaces) — housing types, home features, renting, wilderness, urban phrases, discussion language
+- [Money & Shopping](/students/yurii/vocabulary/money) — budgeting, spending habits, shopping, financial behaviour
